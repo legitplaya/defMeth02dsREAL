@@ -1,0 +1,14 @@
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\testtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\testtest.AssemblyInfoInputs.cache
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\testtest.AssemblyInfo.cs
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\testtest.csproj.CoreCompileInputs.cache
+C:\Users\jenya\source\repos\testtest\testtest\bin\Debug\net8.0\testtest.exe
+C:\Users\jenya\source\repos\testtest\testtest\bin\Debug\net8.0\testtest.deps.json
+C:\Users\jenya\source\repos\testtest\testtest\bin\Debug\net8.0\testtest.runtimeconfig.json
+C:\Users\jenya\source\repos\testtest\testtest\bin\Debug\net8.0\testtest.dll
+C:\Users\jenya\source\repos\testtest\testtest\bin\Debug\net8.0\testtest.pdb
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\testtest.dll
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\refint\testtest.dll
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\testtest.pdb
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\testtest.genruntimeconfig.cache
+C:\Users\jenya\source\repos\testtest\testtest\obj\Debug\net8.0\ref\testtest.dll

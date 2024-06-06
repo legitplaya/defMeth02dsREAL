@@ -1,0 +1,14 @@
+C:\Users\jenya\source\repos\testtest\testtest\bin\Release\net8.0\Default Methods Realisation.exe
+C:\Users\jenya\source\repos\testtest\testtest\bin\Release\net8.0\Default Methods Realisation.deps.json
+C:\Users\jenya\source\repos\testtest\testtest\bin\Release\net8.0\Default Methods Realisation.runtimeconfig.json
+C:\Users\jenya\source\repos\testtest\testtest\bin\Release\net8.0\Default Methods Realisation.dll
+C:\Users\jenya\source\repos\testtest\testtest\bin\Release\net8.0\Default Methods Realisation.pdb
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\Default Methods Realisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\Default Methods Realisation.AssemblyInfoInputs.cache
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\Default Methods Realisation.AssemblyInfo.cs
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\Default Methods Realisation.csproj.CoreCompileInputs.cache
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\Default Methods Realisation.dll
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\refint\Default Methods Realisation.dll
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\Default Methods Realisation.pdb
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\Default Methods Realisation.genruntimeconfig.cache
+C:\Users\jenya\source\repos\testtest\testtest\obj\Release\net8.0\ref\Default Methods Realisation.dll
